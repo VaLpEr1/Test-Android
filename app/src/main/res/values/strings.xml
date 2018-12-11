@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">VaLpEr</string>
+    <string name="in_app_name">Умный конвектор</string>
+    <string name="title_activity_login_page">LoginPageActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+</resources>
